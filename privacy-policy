@@ -15,6 +15,9 @@ Daily Grace offers a one-time purchase to unlock Pro. Payments are processed thr
 Analytics
 The App uses PostHog, a third-party analytics service, to understand how the App is used so we can improve it. PostHog receives an anonymous, randomly generated device identifier along with basic usage events such as opening the App, completing onboarding, saving a journal entry, enabling a reminder, and viewing or completing a purchase. These events carry limited context — for example your current streak length, the theme category of an entry, and whether you have purchased Pro. We never send the text of your journal reflections, your name, your email, or your payment details. Your IP address is used by PostHog to derive an approximate country and is not stored by us. We do not use advertising SDKs, and we do not track you across other apps or websites. See PostHog's privacy policy at https://posthog.com/privacy.
 
+Diagnostics and Error Reports
+If the App encounters an unexpected error, a diagnostic report is sent to PostHog so we can find and fix the problem. These reports contain only technical information about the failure itself — the error type, the error message, and the technical stack trace identifying the code involved — together with the same anonymous device identifier used for analytics. They never include the text of your journal reflections, your name, your email, or your payment details.
+
 Home Screen Widget
 If you add the Daily Grace widget to your Home Screen, the App shares today's affirmation and your Pro status with the widget through Apple's App Group storage. This data never leaves your device.
 
