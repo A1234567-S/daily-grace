@@ -1,40 +1,35 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Daily Grace — Privacy Policy</title>
-<style>
-body { max-width: 680px; margin: 40px auto; padding: 0 20px; font-family: Georgia, serif; color: #2D2A26; background: #FAFAF7; line-height: 1.6; }
-h1 { font-size: 28px; }
-h2 { font-size: 18px; margin-top: 28px; color: #6B7F5E; }
-.updated { color: #8A8580; font-style: italic; }
-a { color: #6B7F5E; }
-</style>
-</head>
-<body>
-<h1>Daily Grace — Privacy Policy</h1>
-<p class="updated">Last updated: July 2026</p>
-<p>Daily Grace: Bible Affirmations ("the App") is operated by Anoushka Studios. This Privacy Policy explains how we handle your data. Our principle is simple: we collect the minimum necessary, and nothing that personally identifies you.</p>
-<h2>Information We Collect</h2>
-<p>The App does not require an account and does not collect personally identifiable information — no name, no email address, no contact details, no precise location. Journal reflections you write are stored only on your device and are never transmitted to our servers. Your streak count, favorites, and settings are stored locally using iOS device storage.</p>
-<h2>Notifications</h2>
-<p>If you enable reminder notifications, they are scheduled locally on your device. No notification data is sent to external servers.</p>
-<h2>In-App Purchases</h2>
-<p>Purchases are processed through Apple's App Store. We do not store or have access to your payment information. Purchase history is managed through your Apple ID. To manage purchases and entitlements, the App uses RevenueCat, a third-party service that receives an anonymous app user ID, device information, and your purchase history (never your name, email, or payment details). RevenueCat processes this data on our behalf to validate purchases and restore them across your devices. See <a href="https://www.revenuecat.com/privacy">RevenueCat's privacy policy</a>.</p>
-<h2>Analytics</h2>
-<p>The App uses PostHog, a third-party analytics service, to understand how the App is used so we can improve it. PostHog receives an anonymous, randomly generated device identifier along with basic usage events such as opening the App, completing onboarding, saving a journal entry, enabling a reminder, and viewing or completing a purchase. These events carry limited context — for example your current streak length, the theme category of an entry, and whether you have purchased Pro. We never send the text of your journal reflections, your name, your email, or your payment details. Your IP address is used by PostHog to derive an approximate country and is not stored by us. We do not use advertising SDKs, and we do not track you across other apps or websites. See <a href="https://posthog.com/privacy">PostHog's privacy policy</a>.</p>
-<h2>Home Screen Widget</h2>
-<p>If you add the Daily Grace widget to your Home Screen, the App shares today's affirmation and your Pro status with the widget through Apple's App Group storage. This data never leaves your device.</p>
-<h2>Data Sharing</h2>
-<p>Other than the purchase processing and analytics described above, we do not sell, trade, or transfer your data to third parties.</p>
-<h2>Data Security</h2>
-<p>All content you create in the App, including your journal reflections, is stored on your device and protected by iOS security mechanisms including device encryption. The limited analytics events described above are transmitted over an encrypted connection.</p>
-<h2>Children's Privacy</h2>
-<p>The App is rated 13+ on the App Store. We do not knowingly collect data from children under 13.</p>
-<h2>Changes to This Policy</h2>
-<p>We may update this Privacy Policy from time to time. Updates are reflected by revising the "Last updated" date above.</p>
-<h2>Contact</h2>
-<p>Questions about this policy? Contact us through the App Store listing for Daily Grace.</p>
-</body>
-</html>
+Privacy Policy
+Last Updated: July 2026
+
+Daily Grace: Bible Affirmations ("the App") is operated by Anoushka Studios. This Privacy Policy explains how we handle your data. Our principle is simple: we collect the minimum necessary, and nothing that personally identifies you.
+
+Information We Collect
+The App does not require account creation and does not collect personally identifiable information — no name, no email address, no contact details, no precise location. Journal reflections you write are stored only on your device and are never transmitted to our servers. Your streak count, favorites, and settings are stored locally using iOS device storage.
+
+Notifications
+If you enable reminder notifications, they are scheduled locally on your device. No notification data is sent to external servers, and no push tokens are collected.
+
+In-App Purchases
+Daily Grace offers a one-time purchase to unlock Pro. Payments are processed through Apple's App Store. We do not store or have access to your payment information. Purchase history is managed through your Apple ID. To manage purchases and entitlements, the App uses RevenueCat, a third-party service that receives an anonymous app user ID, device information, and your purchase history (never your name, email, or payment details). RevenueCat processes this data on our behalf to validate purchases and restore them across your devices. See RevenueCat's privacy policy at https://www.revenuecat.com/privacy.
+
+Analytics
+The App uses PostHog, a third-party analytics service, to understand how the App is used so we can improve it. PostHog receives an anonymous, randomly generated device identifier along with basic usage events such as opening the App, completing onboarding, saving a journal entry, enabling a reminder, and viewing or completing a purchase. These events carry limited context — for example your current streak length, the theme category of an entry, and whether you have purchased Pro. We never send the text of your journal reflections, your name, your email, or your payment details. Your IP address is used by PostHog to derive an approximate country and is not stored by us. We do not use advertising SDKs, and we do not track you across other apps or websites. See PostHog's privacy policy at https://posthog.com/privacy.
+
+Home Screen Widget
+If you add the Daily Grace widget to your Home Screen, the App shares today's affirmation and your Pro status with the widget through Apple's App Group storage. This data never leaves your device.
+
+Data Sharing
+Other than the purchase processing and analytics described above, we do not sell, trade, or transfer your data to third parties.
+
+Data Security
+All content you create in the App, including your journal reflections, is stored on your device and protected by iOS security mechanisms including device encryption. The limited analytics events described above are transmitted over an encrypted connection.
+
+Children's Privacy
+The App is rated 13+ on the App Store. We do not knowingly collect personal information from children under the age of 13.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time. Any updates will be reflected by revising the "Last Updated" date above.
+
+Contact
+If you have any questions about this Privacy Policy, please contact us at:
+dailygraceapp@outlook.com
