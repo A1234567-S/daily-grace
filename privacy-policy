@@ -1,4 +1,4 @@
-Last Updated: July 2026
+Last Updated: November 2026
 
 Mercies: Bible Affirmations ("the App") is operated by Anoushka Studios. This Privacy Policy explains how we handle your data. Our principle is simple: we collect the minimum necessary, and nothing that personally identifies you.
 
@@ -14,6 +14,9 @@ Mercies offers auto-renewing monthly and yearly subscriptions, and a one-time Li
 ANALYTICS
 The App uses PostHog, a third-party analytics service, to understand how the App is used so we can improve it. PostHog receives an anonymous, randomly generated device identifier along with basic usage events such as opening the App, completing onboarding, saving a journal entry, enabling a reminder, and viewing or completing a purchase. These events carry limited context — for example your current streak length, the theme category of an entry, and whether you have purchased Pro. We never send the text of your journal reflections, your name, your email, or your payment details. Your IP address is used by PostHog to derive an approximate country and is not stored by us. We do not use advertising SDKs, and we do not track you across other apps or websites. See PostHog's privacy policy at https://posthog.com/privacy.
 
+APPLE ADS ATTRIBUTION
+If you installed the App after tapping one of our ads on the App Store, the App uses Apple's AdServices framework to learn which ad campaign led to the install. Apple generates an attribution token on your device without asking for tracking permission and without access to your device's advertising identifier. The App exchanges this token with Apple for campaign, ad group, keyword, and ad identifiers (numbers only, never your identity) and the date of the ad tap. These identifiers are recorded with the anonymous device identifier described under Analytics, and the token is also passed to RevenueCat so it can relate a purchase to the campaign that led to it. We use this only to measure which of our ads work. It is not used to track you across other apps or websites, and it is not linked to your identity.
+
 DIAGNOSTICS AND ERROR REPORTS
 If the App encounters an unexpected error, a diagnostic report is sent to PostHog so we can find and fix the problem. These reports contain only technical information about the failure itself — the error type, the error message, and the technical stack trace identifying the code involved — together with the same anonymous device identifier used for analytics. They never include the text of your journal reflections, your name, your email, or your payment details.
 
@@ -21,7 +24,7 @@ HOME SCREEN WIDGET
 If you add the Mercies widget to your Home Screen, the App shares today's affirmation and your Pro status with the widget through Apple's App Group storage. This data never leaves your device.
 
 DATA SHARING
-Other than the purchase processing and analytics described above, we do not sell, trade, or transfer your data to third parties.
+Other than the purchase processing, analytics, and ad attribution described above, we do not sell, trade, or transfer your data to third parties.
 
 DATA SECURITY
 All content you create in the App, including your journal reflections, is stored on your device and protected by iOS security mechanisms including device encryption. The limited analytics events described above are transmitted over an encrypted connection.
